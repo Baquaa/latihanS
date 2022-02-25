@@ -1,0 +1,32 @@
+.menu-a {
+    display: flex;
+    background-color: bisque;
+}
+.menu-b {
+    color: black;
+}
+/* .menu {
+     
+     float: left;
+     width: 97%;
+     height: 4%; 
+     padding: 0%;
+     background-color: rgb(197, 223, 126);
+     line-height: 1%;
+     text-align: start;
+}
+.menu a{
+     text-decoration: none;
+     font-size: 25px;
+     color: black;
+     display: block;
+ }
+ .menu, ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+ }
+ .menu, li {
+     float: left;
+     padding: 20px;
+ } */

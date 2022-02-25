@@ -1,0 +1,14 @@
+body {
+    display: block;
+}
+.top-text {
+    color: tomato;
+    text-align: center;
+}
+.menu-a {
+    display: flex;
+    background-color: aqua;
+}
+.menu-b {
+    color: black;
+}
